@@ -64,7 +64,7 @@ Spawning the message box through the `Fatal Application Exit` WINAPI means that 
 3. Get the address of `Fatal Application Exit`
 4. Call `Fatal Application Exit`
 
-The first thing the shellcode does is to save `fs:[edx+0x30]` into `edx`.
+The first thing the shellcode does is to save `fs:[0x30]` into `edx`.
 
 ```assembly
  0:  31 d2                   xor    edx,edx
