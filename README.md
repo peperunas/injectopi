@@ -1,3 +1,4 @@
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/peperunas)
 # What is this?
 Injectopi is a set of tutorials that I've decided to write down in order to learn about various injection techniques in the Windows' environment. The idea came to my mind when I noticed these awesome [sources by Hasherezade][Hasherezade demo].
 
